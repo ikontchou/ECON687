@@ -3,7 +3,6 @@ title: "KONTCHOU_IDRISS_Assigment_1"
 author: "Idriss Kontchou"
 date: "`r Sys.Date()`"
 output:
-  pdf_document: default
   html_document:
     df_print: paged
 ---
@@ -32,20 +31,20 @@ plot(pressure)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
-problem 2: Learning about Git
+#problem 2: Learning about Git
 
-Git is an open source software for version control. In simple terms, using git helps see all the previous versions of codes created. For example, making commits, it's equivalent to saving copies of a version of codes.Committing a file/files creates metadata such as changes made to the files: what, who, when changes were made.Another significant part of git is the ability to do experiments through branches. Also, using a remote, git can facilitate collaborative work by allowing different people to simultaneously work on the same project.
+#Git is an open source software for version control. In #simple terms, using git helps see all the previous versions #of codes created. For example, making commits, it's #equivalent to saving copies of a version of codes.Committing #a file/files creates metadata such as changes made to the #files: what, who, when changes were made.Another significant #part of git is the ability to do experiments through #branches. Also, using a remote, git can facilitate #collaborative work by allowing different people to #simultaneously work on the same project.
 
 Problem 3:Setting up Git
 
-![](images/paste-DD533D7D.png)
+![](%22C:%5CUsers%5CSunny%5CDownloads%5CGit_account.JPG%22)
 
 Problem 4:Setting up Github
 
-![](images/paste-1AA16D36.png)
+![](%22C:%5CUsers%5CSunny%5CDownloads%5CGithub_account.JPG)
 
 Problem 5: Synchronize GitHub and RStudio
 
 use t
 
-![](images/paste-2077130D.png)
+![](%22C:%5CUsers%5CSunny%5CDownloads%5CSyncro_git_github.JPG%22)
